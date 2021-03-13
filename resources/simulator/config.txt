@@ -1,0 +1,4 @@
+java -classpath "C:/IntelliJ-Workspace/NENR-LAB/out/production/NENR-LAB/" hr.fer.nenr.lab.hw3.FuzzyShipController
+1
+20
+10
