@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 
 public class GestureRecognition extends JFrame {
     static int width = 800, height = 700;
-    static String gestureDatasetFilePath = "C:\\IntelliJ-Workspace\\NENR-LAB\\resources\\gestures_folder\\gesture_dataset.txt";
+    static String gestureDatasetFilePath = "C:\\IntelliJ-Workspace\\fer-nenr\\resources\\gestures-folder\\gesture-dataset.txt";
 
     public GestureRecognition() {
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);

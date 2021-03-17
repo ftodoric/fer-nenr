@@ -6,7 +6,7 @@ public class GenerativeGAMain {
     public static void main(String[] args) {
         int numberOfParams = 5;
         BitVectorDecoder decoder = new BitVectorDecoder(0.001, numberOfParams);
-        String dataset = "C:/IntelliJ-Workspace/NENR-LAB/resources/evolution_datasets/zad4-dataset2.txt";
+        String dataset = "C:/IntelliJ-Workspace/NENR-LAB/resources/evolution-datasets/zad4-dataset2.txt";
         LossFunction lf = new LossFunction(dataset);
 
         // Setting the parameters

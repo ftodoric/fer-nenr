@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NENR-LAB.iml" filepath="$PROJECT_DIR$/NENR-LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fer-nenr.iml" filepath="$PROJECT_DIR$/fer-nenr.iml" />
     </modules>
   </component>
 </project>
