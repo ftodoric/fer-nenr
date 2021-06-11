@@ -2,7 +2,7 @@
 
 Homework assignments of the course "Fuzzy, Evolutionary and Neuro-Computing" at FER.
 
-1. _[Fuzzy Sets, Operations with 5ets](https://github.com/ftodoric/fer-nenr/blob/main/assignments/hw01.pdf)_
+1. _[Fuzzy Sets, Operations with Sets](https://github.com/ftodoric/fer-nenr/blob/main/assignments/hw01.pdf)_
 2. _[Fuzzy Relations, Operations with Relations](https://github.com/ftodoric/fer-nenr/blob/main/assignments/hw02.pdf)_
 3. _[Fuzzy Control System](https://github.com/ftodoric/fer-nenr/blob/main/assignments/hw03.pdf)_
 4. _[Evolution Algorithm](https://github.com/ftodoric/fer-nenr/blob/main/assignments/hw04.pdf)_
